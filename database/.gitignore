@@ -1,0 +1,4 @@
+# Ignore database backups or local test data
+*.sqlite
+*.db
+*.sql~
